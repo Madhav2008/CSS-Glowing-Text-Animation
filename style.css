@@ -4,7 +4,7 @@ body {
     color: #111;
     background-color: #000;position: absolute;
     width: 100%;
-    minheight: 100vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
