@@ -27,6 +27,6 @@ body {
 
     10%,
     90% {
-        color: #111;
+        color: #111;text-shadow: none;
     }
 }
