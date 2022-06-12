@@ -6,5 +6,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;font-family: 'Baloo Thambi', cursive;
+    height: 100vh;
+    font-family: 'Baloo Thambi', cursive;
 }
