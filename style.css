@@ -30,4 +30,6 @@ body {
         color: #111;
         text-shadow: none;
     }
-}.container>span {}
+}
+
+.container>span {}
