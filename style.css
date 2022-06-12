@@ -15,4 +15,6 @@ body {
     animation: glow 2s ease-in-out linear infinite;
 }
 
-@keyframes glow {0%}
+@keyframes glow {
+    0%
+}
