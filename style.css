@@ -19,6 +19,7 @@ body {
 
     0%,
     100% {
-        color: #fff;text-shadow: 0 0 12px;
+        color: #fff;
+        text-shadow: 0 0 12px;
     }
 }
