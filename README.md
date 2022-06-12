@@ -1,1 +1,1 @@
-# Glowing Text
+# Glowing Text Animation
