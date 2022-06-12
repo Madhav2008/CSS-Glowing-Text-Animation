@@ -2,7 +2,7 @@
 
 body {
     color: #111;
-    background-color: #000;
+    background-color: #000;position: absolute;
     /* width: 100%; */
     display: flex;
     justify-content: center;
