@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
 
 body {
-    color: #111;background-color: #000;
+    color: #111;
+    background-color: #000;
     width: 100%;
     display: flex;
     justify-content: center;
