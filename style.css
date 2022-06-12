@@ -45,7 +45,7 @@ body {
 }
 
 .container>span:nth-child(5) {
-    animation-delay: ;
+    animation-delay: 1s;
 }
 
 .container>span:nth-child(6) {
