@@ -18,5 +18,7 @@ body {
 @keyframes glow {
 
     0%,
-    100% {color: #fff;}
+    100% {
+        color: #fff;
+    }
 }
