@@ -32,4 +32,4 @@ body {
     }
 }
 
-.container>span {}
+.container>span:nth-child(2) {}
