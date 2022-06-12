@@ -3,5 +3,6 @@
 body {
     color: #111;
     width: 100%;
-    display: flex;justify-content: center;
+    display: flex;
+    justify-content: center;
 }
