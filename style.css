@@ -20,6 +20,6 @@ body {
     0%,
     100% {
         color: #fff;
-        text-shadow: 0 0 12px lime, 0 0 50px lime;
+        text-shadow: 0 0 12px lime, 0 0 50px lime,0 0 50px lime;
     }
 }
