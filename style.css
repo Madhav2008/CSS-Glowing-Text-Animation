@@ -37,7 +37,7 @@ body {
 }
 
 .container>span:nth-child(3) {
-    animation-delay: ;
+    animation-delay: 0.5s;
 }
 
 .container>span:nth-child(4) {
