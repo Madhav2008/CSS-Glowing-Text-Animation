@@ -11,7 +11,7 @@ body {
     font-size: 5rem;
 }
 
-.container>span {
+.container .span {
     animation: glow 2s ease-in-out linear infinite;
 }
 
