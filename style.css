@@ -12,7 +12,7 @@ body {
 }
 
 .container .span {
-    animation: glow 2s ease-in-out linear infinite;
+    animation: glow 2s ease-in-out infinite;
 }
 
 @keyframes glow {
